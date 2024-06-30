@@ -1,7 +1,7 @@
 # ProjetoRedes2024
 Projeto de aplicação da disciplina Redes de Computadores. Configuração de uma rede. Alunas: Elena, Patricia e Rachel.
 
-```markdown
+markdown
 # Relatório
 ## Trabalho de Redes 2024.1
 
@@ -72,4 +72,4 @@ atende 14 IPs. Dessa forma, cada servidor só podia se comunicar com um grupo de
 
 ### Configuração do Switch
 No switch nós criamos uma VLAN2 na VLAN Database, depois separamos as portas 1-12 para a VLAN 1 e as portas 13-24 para a VLAN 2.
-```
+
